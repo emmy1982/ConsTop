@@ -305,7 +305,7 @@ body {
     left: 0;
     right: 0;
     bottom: 0;
-    background-color: rgba(0, 0, 0, 0.3);
+    background-color: rgba(0, 0, 0, 0.4);
 }
 
 .img-presentation h2{
@@ -1061,7 +1061,7 @@ form {
     }
    /* h2-presentacion */
    .h2-presentation {
-    font-size: 2.5rem;
+    font-size: 2.3rem;
     margin: 200px auto;
    margin-top: -30px;  
    }
